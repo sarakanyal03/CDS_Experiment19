@@ -94,6 +94,6 @@ int main() {
 }
 ```
 * OUTPUT A: <BR>
-![EXP19A]( )
+![EXP18A](https://github.com/sarakanyal03/CDS_Experiment18/blob/main/18A.png )
 # CONCLUSION
 This C++ example shows the fundamental operations of a queue using an array. The array's fixed size indicates that the queue has a limited capacity, which can result in overflow problems if the number of elements exceeds the array size.
