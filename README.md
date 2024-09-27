@@ -1,4 +1,4 @@
-# EXPERIMENT 18
+# EXPERIMENT 19
 # AIM
 To study and implement queue implementation using array. <BR>
 menu options -  <BR>
@@ -33,7 +33,7 @@ In a static array implementation of a queue, we use a fixed-size array and two v
 ```
 //SARA KANYAL
 //23070123115
-//eEXPERIMENT 18-A
+//eEXPERIMENT 19-A
 #include <iostream>
 using namespace std;
 int queue[100], n = 100, front = - 1, rear = - 1;
@@ -94,6 +94,6 @@ int main() {
 }
 ```
 * OUTPUT A: <BR>
-![EXP18A](https://github.com/sarakanyal03/CDS_Experiment18/blob/main/18A.png )
+![EXP19A](https://github.com/sarakanyal03/CDS_Experiment19/blob/main/19A.png)
 # CONCLUSION
 This C++ example shows the fundamental operations of a queue using an array. The array's fixed size indicates that the queue has a limited capacity, which can result in overflow problems if the number of elements exceeds the array size.
