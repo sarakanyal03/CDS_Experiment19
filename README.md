@@ -1,12 +1,12 @@
 # EXPERIMENT 19
-# AIM
+### AIM
 To study and implement queue implementation using array. <BR>
 menu options -  <BR>
 1) insert <BR>
 2) delete  <BR>
 3) display  <BR>
 4) exit <BR>
-# THEORY
+### THEORY
 *Queue Implementation using Array:* <BR>
 <BR>
 A queue is a linear data structure that follows the First In First Out (FIFO) principle. The element added first is the first one to be removed. Queue operations primarily include: <BR>
@@ -28,7 +28,7 @@ In a static array implementation of a queue, we use a fixed-size array and two v
 * Display Operation: <BR>
   * Traverse the array from front + 1 to rear to display the queue elements. <BR>
   
-# CODE & OUTPUT
+### CODE & OUTPUT
 1. CODE A: <BR>
 ```
 //SARA KANYAL
@@ -163,5 +163,5 @@ int main() {
 ```
 * OUTPUT B: <BR>
 ![EXP19B](https://github.com/sarakanyal03/CDS_Experiment19/blob/main/19B.png)
-# CONCLUSION
+### CONCLUSION
 This C++ example shows the fundamental operations of a queue using an array. The array's fixed size indicates that the queue has a limited capacity, which can result in overflow problems if the number of elements exceeds the array size.
